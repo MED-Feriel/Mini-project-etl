@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.env
+posts.csv
+.terraform/
+.terraform.lock.hcl
